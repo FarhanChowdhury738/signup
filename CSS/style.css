@@ -1,0 +1,38 @@
+      h1{
+        text-align: center;
+        color: blue;
+      }
+      input{
+        width: 250px;
+        height: 30px;
+        margin: 0 auto;
+        display: block;
+        padding: 5px;
+      }
+      #style{
+        text-align: center;
+        background: blue;
+        height: 30px;
+        width: 250px;
+        margin: 0 auto;
+        color: white;
+        padding: 4px;
+      }
+      p{
+        text-align: center;
+      }
+     #style1{
+        text-align: center;
+        background:green;
+        height: 30px;
+        width: 250px;
+        margin: 0 auto;
+        color: white;
+        padding: 5px;
+      }
+    .own{
+      text-align: right;
+      font-size: 30px;
+      font-family: arial black;
+      
+      }
